@@ -69,6 +69,7 @@ classDiagram
     class Media{
       + void display()
     }
+    <<Abstract>> Media
     
     class Photo{
       + void display()
