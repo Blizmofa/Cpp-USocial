@@ -1,4 +1,4 @@
-# github-Cpp-USocial
+# Cpp-USocial
 Basic framework for Social Network named USocial.\
 Written and compiled in Visual Studio 2022 on Windows 11.
 
